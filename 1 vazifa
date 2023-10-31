@@ -1,0 +1,3 @@
+s = Talaba()
+s.ism = "Jamshid"
+print(s.ism, s.year)
